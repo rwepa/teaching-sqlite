@@ -4,3 +4,8 @@
 ## 下載 SQLite
 https://sqlitestudio.pl/
 
+## SQLite-01.資料庫系統
+https://github.com/rwepa/teaching-sqlite/blob/main/SQLite-01-database_system.pdf
+
+## SQLite-02.SQLite資料庫的管理環境
+https://github.com/rwepa/teaching-sqlite/blob/main/SQLite-02-SQLiteStudio.pdf
