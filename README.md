@@ -15,6 +15,9 @@ https://github.com/rwepa/teaching-sqlite/blob/main/SQLite-02-SQLiteStudio.pdf
 https://github.com/rwepa/teaching-sqlite/blob/main/%E5%AD%B8%E7%94%9F.xlsx
 
 ## 命令列介面
+
+https://www.tutorialspoint.com/sqlite/sqlite_commands.htm
+
 .add       - 新增資料庫 adds new database to the list
 
 .cd        - 改變目前工作目錄 changes current working directory
