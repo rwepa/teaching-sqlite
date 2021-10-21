@@ -63,7 +63,9 @@ https://www.tutorialspoint.com/sqlite/sqlite_commands.htm
 .use       - 改變預設工作目錄 changes default working database
 
 ## SQLite-03.建立資料庫的規則
+https://github.com/rwepa/teaching-sqlite/blob/main/SQLite-03-database_rules.pdf
 
 ## ydu107400168.sqlite 資料庫
+https://github.com/rwepa/teaching-sqlite/blob/main/ydu107400168.sqlite
 
-
+待續...
