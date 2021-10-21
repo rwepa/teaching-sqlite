@@ -61,3 +61,9 @@ https://www.tutorialspoint.com/sqlite/sqlite_commands.htm
 .tree      - 將資料庫物件以樹狀表示 prints all objects in the database as a tree
 
 .use       - 改變預設工作目錄 changes default working database
+
+## SQLite-03.建立資料庫的規則
+
+## ydu107400168.sqlite 資料庫
+
+
