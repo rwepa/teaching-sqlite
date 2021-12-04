@@ -70,3 +70,6 @@ https://github.com/rwepa/teaching-sqlite/blob/main/ydu107400168.sqlite
 
 ## Northwind.sqlite 北風資料庫
 https://github.com/rwepa/teaching-sqlite/blob/main/Northwind.sqlite
+
+## 視覺化實體關係模型 DbSchema (15天試用版)
+https://dbschema.com/download.html
