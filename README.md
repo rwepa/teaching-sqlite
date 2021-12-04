@@ -74,4 +74,5 @@ https://github.com/rwepa/teaching-sqlite/blob/main/Northwind.sqlite
 ## 視覺化實體關係模型 DbSchema (15天試用版)
 https://dbschema.com/download.html
 
-https://github.com/rwepa/teaching-sqlite/blob/main/imgs/northwind-ERD.png
+![Northwind - ERD](https://github.com/rwepa/teaching-sqlite/blob/main/imgs/northwind-ERD.png)
+
