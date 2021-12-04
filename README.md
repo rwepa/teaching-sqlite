@@ -68,4 +68,5 @@ https://github.com/rwepa/teaching-sqlite/blob/main/SQLite-03-database_rules.pdf
 ## ydu107400168.sqlite 資料庫
 https://github.com/rwepa/teaching-sqlite/blob/main/ydu107400168.sqlite
 
-待續...
+## Northwind.sqlite 北風資料庫
+https://github.com/rwepa/teaching-sqlite/blob/main/Northwind.sqlite
