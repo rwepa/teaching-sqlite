@@ -79,3 +79,5 @@ https://dbschema.com/download.html
 
 ![Northwind - ERD](https://github.com/rwepa/teaching-sqlite/blob/main/imgs/northwind-ERD.png)
 
+## SQLite-05.結構化查詢語言(SQL)
+https://github.com/rwepa/teaching-sqlite/blob/main/SQLite-05-SQL.pdf
