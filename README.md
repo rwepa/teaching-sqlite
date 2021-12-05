@@ -81,3 +81,6 @@ https://dbschema.com/download.html
 
 ## SQLite-05.結構化查詢語言(SQL)
 https://github.com/rwepa/teaching-sqlite/blob/main/SQLite-05-SQL.pdf
+
+## SQLite-05-SQL.SQL
+https://github.com/rwepa/teaching-sqlite/blob/main/SQLite-05-SQL.SQL
