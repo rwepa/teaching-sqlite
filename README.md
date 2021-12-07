@@ -84,3 +84,6 @@ https://github.com/rwepa/teaching-sqlite/blob/main/SQLite-05-SQL.pdf
 
 ## SQLite-05-SQL.SQL
 https://github.com/rwepa/teaching-sqlite/blob/main/SQLite-05-SQL.SQL
+
+## SQLite-06-SELECT.SQL
+https://github.com/rwepa/teaching-sqlite/blob/main/SQLite-06-SELECT.SQL
