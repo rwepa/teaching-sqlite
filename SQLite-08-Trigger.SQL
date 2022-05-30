@@ -1,5 +1,4 @@
---file     : Chapter 8-Triggers.SQL
---title    : SQLite-08-Triggers(觸發)
+--file     : SQLite-08-Trigger.SQL
 --author   : Ming-Chang Lee
 --date     : 2022.05.30
 --email    : alan9956@gmail.com
