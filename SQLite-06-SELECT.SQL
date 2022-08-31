@@ -151,6 +151,8 @@ HAVING 訂購次數 > 10
 ORDER BY 訂購次數 DESC;
 
 -- CASE WHEN THEN END 函數
+-- 將數值資料轉換至類別型資料
+
 SELECT ProductID,
        ProductName,
        UnitPrice,
@@ -167,5 +169,20 @@ FROM Products
 ORDER BY UnitPrice
 LIMIT 1
 OFFSET (SELECT COUNT(*)
-        FROM Products) / 2
-# END
+        FROM Products) / 2;
+
+-- NTILE 函數
+-- 參考 https://www.sqlitetutorial.net/sqlite-window-functions/sqlite-ntile/
+
+-- NTILE(expression) OVER ( 
+--	PARTITION BY expression1, expression2,...
+--	ORDER BY expression1 [ASC | DESC], ...
+--)
+
+-- NTILE 將資料排序後均等分不同區間      
+SELECT UnitPrice,
+  NTILE(3) over (
+    ORDER BY UnitPrice
+  ) Ntile_UnitPrice
+FROM Products;
+-- END
