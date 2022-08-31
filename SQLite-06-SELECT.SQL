@@ -174,10 +174,10 @@ OFFSET (SELECT COUNT(*)
 -- NTILE 函數
 -- 參考 https://www.sqlitetutorial.net/sqlite-window-functions/sqlite-ntile/
 
--- NTILE(expression) OVER ( 
---	PARTITION BY expression1, expression2,...
---	ORDER BY expression1 [ASC | DESC], ...
---)
+NTILE(expression) OVER ( 
+       PARTITION BY expression1, expression2,...
+	ORDER BY expression1 [ASC | DESC], ...
+)
 
 -- NTILE 將資料排序後均等分不同區間      
 SELECT UnitPrice,
