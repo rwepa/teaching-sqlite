@@ -179,9 +179,10 @@ NTILE(expression) OVER (
 	ORDER BY expression1 [ASC | DESC], ...
 )
 
--- NTILE 將資料排序後均等分不同區間      
+-- NTILE 將資料排序後均等分不同區間
+-- 將資料依照 UnitPrice 區分為3個區間, 每個區間的個數大約相同.
 SELECT UnitPrice,
-  NTILE(3) over (
+  NTILE(3) OVER (
     ORDER BY UnitPrice
   ) Ntile_UnitPrice
 FROM Products;
