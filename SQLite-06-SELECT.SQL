@@ -7,9 +7,6 @@
 --GitHub   : https://github.com/rwepa
 --Encoding : UTF-8
 
--- Updated : 2022.08.30 - 新增 CASE WHEN THEN END 函數
--- Updated : 2022.08.31 - 新增 中位數(Median)
-
 -- Download Northwind and connect database
 -- https://github.com/rwepa/teaching-sqlite/blob/main/Northwind.sqlite
 
