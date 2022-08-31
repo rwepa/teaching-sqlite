@@ -7,6 +7,8 @@
 --GitHub   : https://github.com/rwepa
 --Encoding : UTF-8
 
+-- Updated : 2022.08.30 -新增 CASE WHEN THEN END 函數
+
 -- Download Northwind and connect database
 -- https://github.com/rwepa/teaching-sqlite/blob/main/Northwind.sqlite
 
@@ -149,4 +151,14 @@ FROM     Orders
 GROUP BY  CustomerID
 HAVING 訂購次數 > 10
 ORDER BY 訂購次數 DESC;
--- END
+
+-- CASE WHEN THEN END 函數
+SELECT ProductID,
+       ProductName,
+       UnitPrice,
+       CASE 
+           WHEN UnitPrice >= 1000 THEN 'High'
+           WHEN UnitPrice >= 10 AND UnitPrice < 1000 THEN 'Middle'
+           ELSE 'Low'
+       END AS PriceType
+FROM Products;
