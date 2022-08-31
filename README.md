@@ -88,9 +88,6 @@ https://github.com/rwepa/teaching-sqlite/blob/main/SQLite-05-SQL.SQL
 ## SQLite-06-SELECT.SQL
 https://github.com/rwepa/teaching-sqlite/blob/main/SQLite-06-SELECT.SQL
 
-## SQLite-06.a-SELECT-CASE.SQL
-https://github.com/rwepa/teaching-sqlite/blob/main/SQLite-06.a-SELECT-CASE.SQL
-
 ## SQLite-07-View (檢視)
 https://www.tutorialspoint.com/sqlite/sqlite_views.htm
 
